@@ -1,0 +1,16 @@
+{
+  "name": "skweatherbot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "botbuilder": "^3.4.2"
+  },
+  "devDependencies": {
+    "restify": "^4.3.0"    
+  },
+  "author": {
+        "name": "Eric ShangKuan",
+        "url": "https://github.com/ericsk"
+  },
+  "license": "MIT"
+}
